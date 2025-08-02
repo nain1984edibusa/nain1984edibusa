@@ -36,7 +36,7 @@ Prototipo completo que moderniza un sistema monolítico utilizando microservicio
 ### 📊 [Dashboard de Observabilidad con Prometheus y Grafana]()
 Monitoreo de APIs distribuidas, trazabilidad con Zipkin y visualización de métricas para decisiones técnicas en tiempo real.
 
-### 🔧 Proyecto de modernización e integracion del Core Tributario
+### 🔧 [Proyecto de modernización e integracion del Core Tributario]()
 Rediseño de la arquitectura base del sistema Core Tributario para integrar nuevos módulos (patentes intranet e internet) bajo un enfoque de arquitectura limpia, APIs modernas y separación de responsabilidades. El objetivo es mejorar la seguridad, mantenibilidad y extensibilidad del sistema.
 
 **Tecnologías utilizadas:** .NET Framework · .NET 8 · SQL Server · Angular 19 · IIS · JWT · Clean Architecture.
