@@ -2,7 +2,7 @@
 
 🎓 Ingeniero en Software con enfoque en arquitectura de microservicios, desarrollo backend, DevOps y soluciones modernas para el sector público y tributario.
 
-💡 Apasionado por crear soluciones escalables y mantenibles utilizando tecnologías como .NET, Java, Spring Boot, Docker y Kubernetes.
+💡 Enfocado en el diseño de soluciones escalables y mantenibles con tecnologías como Spring Boot, .NET, Docker y Prometheus..
 
 ---
 
