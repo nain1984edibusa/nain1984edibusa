@@ -41,7 +41,7 @@ Prototipo completo que moderniza un sistema monolítico utilizando microservicio
 Monitoreo de APIs distribuidas, trazabilidad con Zipkin y visualización de métricas para decisiones técnicas en tiempo real.
 
 ### 📄 [INPC Tramites ciudadanos](https://github.com/nain1984edibusa/INPC-Tramites-ciudadanos)
-Este repositorio documenta mi participación técnica en el desarrollo del sistema nacional de trámites ciudadanos.
+Desarrollo e implementación del sistema nacional de trámites ciudadanos .
 
 ---
 
