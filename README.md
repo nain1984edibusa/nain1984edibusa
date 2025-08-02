@@ -41,11 +41,7 @@ Plantilla base para proyectos backend con DDD y buenas prácticas, ideal para mi
 
 ---
 
-## 📈 Estadísticas
-
----
-
 ## 📬 Contacto
 
 - 💼 [LinkedIn](https://linkedin.com/in/eduardobustillos)
-- 📧 Correo: [tuemail@dominio.com]
+- 📧 Correo: [edibusa_1991@hotmail.com]
