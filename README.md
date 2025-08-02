@@ -37,7 +37,7 @@ Rediseño de la arquitectura base del sistema Core Tributario para integrar nuev
 ### 📌 [Tesis - Arquitectura de Microservicios en Gestión Tributaria](https://github.com/eduardobustillos/tesis-microservicios-gestion-tributaria)
 Prototipo completo que moderniza un sistema monolítico utilizando microservicios, Spring Boot, Docker, Eureka y Prometheus. Incluye pruebas de carga, encuestas de percepción y validación estadística.
 
-### 📊 [Dashboard de Observabilidad con Prometheus y Grafana]()
+### 📊 [Dashboard de Observabilidad con Prometheus y Grafana](https://github.com/eduardobustillos/INPC-Tramites-ciudadanos)
 Monitoreo de APIs distribuidas, trazabilidad con Zipkin y visualización de métricas para decisiones técnicas en tiempo real.
 
 ---
