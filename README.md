@@ -43,9 +43,6 @@ Plantilla base para proyectos backend con DDD y buenas prácticas, ideal para mi
 
 ## 📈 Estadísticas
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardobustillos&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobustillos&layout=compact&theme=github_dark)
-
 ---
 
 ## 📬 Contacto
