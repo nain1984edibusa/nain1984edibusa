@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Eduardo Bustillos
 
-🎓 Ingeniero en Software con enfoque en arquitectura de microservicios, desarrollo backend, DevOps y soluciones modernas para el sector público y tributario.
+🎓 Ingeniero en Software con formación en arquitectura de microservicios, desarrollo backend, DevOps y soluciones modernas para el sector público y tributario.
 
 💡 Enfocado en el diseño de soluciones escalables y mantenibles con tecnologías como Spring Boot, .NET, Docker y Prometheus..
 
