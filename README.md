@@ -36,8 +36,10 @@ Prototipo completo que moderniza un sistema monolítico utilizando microservicio
 ### 📊 [Dashboard de Observabilidad con Prometheus y Grafana]()
 Monitoreo de APIs distribuidas, trazabilidad con Zipkin y visualización de métricas para decisiones técnicas en tiempo real.
 
-### 📦 [Starter API Clean Architecture .NET 8](#)
-Plantilla base para proyectos backend con DDD y buenas prácticas, ideal para microservicios.
+### 🔧 Proyecto de Reestructuración del Core Tributario
+Reestructuración de la arquitectura del sistema Core Tributario, integrando de nuevos módulos (patentes intranet e internet) bajo un enfoque de arquitectura limpia, APIs modernas y separación de responsabilidades. El objetivo es mejorar la seguridad, mantenibilidad y extensibilidad del sistema.
+
+**Tecnologías utilizadas:** .NET Framework · .NET 8 · SQL Server · Angular 19 · IIS · JWT · Clean Architecture.
 
 ---
 
