@@ -27,7 +27,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## 📄 Artículo Científico
+Puedes acceder al artículo completo escaneando el siguiente código QR:
 
+---
 ## 🧠 Proyectos Destacados
 
 ### 🔧 [Proyecto de modernización e integracion del Core Tributario]()
